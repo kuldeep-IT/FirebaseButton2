@@ -45,7 +45,7 @@ afterEvaluate {
 
                 groupId = 'com.github.kuldeep-IT'
                 artifactId = 'firebase-button'
-                version = '1.0'
+                version = '2.0'
             }
         }
     }
